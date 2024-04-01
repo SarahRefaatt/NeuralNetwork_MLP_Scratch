@@ -1,4 +1,4 @@
-##NeuralNetwork_MLP_Scratch
+# NeuralNetwork_MLP_Scratch
 ## Installation
 
 To run this project, please follow these steps:
@@ -32,3 +32,5 @@ You can experiment with different configurations, datasets, and hyperparameters 
 
 
 Please note that this implementation is a simplified example and may not perform well on more complex tasks. It serves as a starting point for understanding MLPs and can be extended for more advanced applications.
+
+
